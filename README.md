@@ -2,21 +2,18 @@
   <img src="profile_banner.png" alt="Banner de Bienvenida">
 </p>
 
-## Hi! 👋
-I love programming, especially when it involves working with data. I specialize in extracting, transforming, and analyzing data to deliver insights that drive informed decisions.
+## Nice to Have You Here!
+I love programming, especially when it involves working with data.
 
-**Analysis Tools:**
-- Excel
-- Exploratory Data Analysis (EDA)
-- ETL (Extract, Transform, Load)
-
-**Competencies:**
-- Problem Solving
-- Data Analysis
+| Analysis Tools                          |
+| --------------------------------------- |
+| Excel                                   |
+| Exploratory Data Analysis (EDA)         |
+| Extract, Transform, Load (ETL)          |
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,python,git)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,python,git)
 
 ## Tools I Use
 
