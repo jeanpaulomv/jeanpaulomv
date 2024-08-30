@@ -7,11 +7,18 @@ I love programming, especially when it involves working with data. I also utiliz
 
 ## Skills
 
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql,python,git)
+<img src="icons/postgresql.svg" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+<img src="icons/mysql.svg" alt="MySQL" />&nbsp;&nbsp;&nbsp;
+<img src="icons/jupyter.svg" alt="Jupyter" />&nbsp;&nbsp;&nbsp;
+<img src="icons/pandas.svg" alt="Pandas" />&nbsp;&nbsp;&nbsp;
+<img src="icons/numpy.svg" alt="NumPy" />&nbsp;&nbsp;&nbsp;
+<img src="icons/python.svg" alt="Python" />&nbsp;&nbsp;&nbsp;
+<img src="icons/git.svg" alt="Git" />
 
 ## Tools I Use
 
-![My Skills](https://skillicons.dev/icons?i=vscode,notion)
+<img src="icons/visual-studio-code.svg" alt="Visual Studio Code" />&nbsp;&nbsp;&nbsp;
+<img src="icons/notion.svg" alt="Notion" />
 
 ## Featured Projects
 
