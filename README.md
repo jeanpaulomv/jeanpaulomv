@@ -3,13 +3,7 @@
 </p>
 
 ## Nice to Have You Here!
-I love programming, especially when it involves working with data.
-
-| Analysis Tools                          |
-| --------------------------------------- |
-| Excel                                   |
-| Exploratory Data Analysis (EDA)         |
-| Extract, Transform, Load (ETL)          |
+I love programming, especially when it involves working with data. I also utilize tools like Excel and methodologies such as Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) to make data easy to understand and use for better decision-making.
 
 ## Skills
 
