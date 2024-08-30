@@ -3,7 +3,7 @@
 </p>
 
 ## Nice to Have You Here!
-I love programming, especially when it involves working with data. I also utilize tools like Excel and methodologies such as Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) to make data easy to understand and use for better decision-making.
+I love programming, especially when it involves working with data. I also utilize spreadsheet software (such as Excel and Google Sheets) and methodologies such as Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) to make data easy to understand and use for better decision-making.
 
 ## Skills
 
@@ -16,7 +16,7 @@ I love programming, especially when it involves working with data. I also utiliz
 ## Featured Projects
 
 - **[Customer Churn Analysis in Telecommunications](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)**  
-  Using: Excel
+  Using: Excel, PivotTables 
 
 - **[E-commerce Sales Data Analysis](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis)**  
   Using: Pandas, NumPy, Matplotlib, Seaborn
