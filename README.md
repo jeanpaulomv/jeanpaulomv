@@ -11,18 +11,24 @@ I love programming, especially when it involves working with data.
 | Exploratory Data Analysis (EDA)         |
 | Extract, Transform, Load (ETL)          |
 
-## Skills 
+## Skills
 
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,python,git)
 
 ## Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,notion)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,notion)
 
-## Proyectos Destacados
-- **[Customer Churn Analysis in Telecommunications](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp):** The analysis involved creating calculated columns, PivotTables, and a comprehensive visual dashboard to understand the factors driving customer churn and to formulate strategies to address them.
-- **[E-commerce Sales Data Analysis](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis):** This project presents an exploratory data analysis (EDA) of sales data from an online retail store.
-- **[Motorcycle Parts Sales Analysis](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project):** The goal is to provide insights into their revenue streams by calculating net revenue by product line, month, and warehouse.
+## Featured Projects
+
+- **[Customer Churn Analysis in Telecommunications](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)**  
+  Using: Excel
+
+- **[E-commerce Sales Data Analysis](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis)**  
+  Using: Pandas, NumPy, Matplotlib, Seaborn
+
+- **[Motorcycle Parts Sales Analysis](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)**  
+  Using: PostgreSQL
 
 ## Connect With Me
 <p>
