@@ -29,7 +29,7 @@ I love programming, especially when it involves working with data. I also utiliz
   Using: Pandas, NumPy, Matplotlib, Seaborn
 
 - **[Motorcycle Parts Sales Analysis](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)**  
-  Using: PostgreSQL, Python
+  Using: PostgreSQL, Python, Pandas
 
 ## Connect With Me
 <p>
