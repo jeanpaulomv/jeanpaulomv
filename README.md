@@ -22,50 +22,67 @@ I love programming, especially when it involves working with data. I also utiliz
 
 ## Featured Projects
 
-<!-- Project 1 -->
-<table style="width: 100%; margin-bottom: 30px;">
-  <tr>
-    <td style="width: 150px; vertical-align: top;">
-      <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
-        <img src="images/image_customer.jpg" alt="Customer Churn Analysis" style="max-width: 100%; height: auto;"/>
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
-      <p style="margin: 0; word-wrap: break-word;"><em>Using: Excel, PivotTables</em></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<!-- Project 2 -->
-<table style="width: 100%; margin-bottom: 30px;">
-  <tr>
-    <td style="width: 150px; vertical-align: top;">
-      <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
-        <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" style="max-width: 100%; height: auto;"/>
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
-      <p style="margin: 0; word-wrap: break-word;"><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
-    </td>
-  </tr>
-</table>
+  <!-- Project 1 -->
+  <div style="display: inline-block; margin: 20px;">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
+            <img src="images/image_customer.jpg" alt="Customer Churn Analysis" width="100" height="100"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
+          <p><em>Using: Excel, PivotTables</em></p>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<!-- Project 3 -->
-<table style="width: 100%; margin-bottom: 30px;">
-  <tr>
-    <td style="width: 150px; vertical-align: top;">
-      <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
-        <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" style="max-width: 100%; height: auto;"/>
-      </a>
-    </td>
-    <td style="vertical-align: top;">
-      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
-      <p style="margin: 0; word-wrap: break-word;"><em>Using: PostgreSQL, Python, Pandas</em></p>
-    </td>
-  </tr>
-</table>
+  <!-- Project 2 -->
+  <div style="display: inline-block; margin: 20px;">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
+            <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" width="100" height="100"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <h3><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
+          <p><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Project 3 -->
+  <div style="display: inline-block; margin: 20px;">
+    <table>
+      <tr>
+        <td align="center">
+          <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
+            <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" width="100" height="100"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <h3><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
+          <p><em>Using: PostgreSQL, Python, Pandas</em></p>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+</div>
+
 
 ## Connect With Me
 <p>
