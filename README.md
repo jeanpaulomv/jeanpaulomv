@@ -22,9 +22,44 @@ I love programming, especially when it involves working with data. I also utiliz
 
 ## Featured Projects
 
-| ![Customer Churn Analysis](images/image_customer.jpg) | ![E-commerce Sales Data Analysis](images/image_ecommerce_analysis.png) | ![Motorcycle Parts Sales Analysis](images/image_motos.png) |
-|:---:|:---:|:---:|
-| [**Customer Churn Analysis in Telecommunications**](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp) <br> _Using: Excel, PivotTables_ | [**E-commerce Sales Data Analysis**](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis) <br> _Using: Pandas, NumPy, Matplotlib, Seaborn_ | [**Motorcycle Parts Sales Analysis**](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project) <br> _Using: PostgreSQL, Python, Pandas_ |
+<!-- Project 1 -->
+<table style="margin-bottom: 30px; width: 600px; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="images/image_customer.jpg" alt="Customer Churn Analysis" width="100" height="100"/>
+    </td>
+    <td style="vertical-align: top;">
+      <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecommunications</a></h3>
+      <p><em>Using: Excel, PivotTables</em></p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 2 -->
+<table style="margin-bottom: 30px; width: 600px; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" width="100" height="100"/>
+    </td>
+    <td style="vertical-align: top;">
+      <h3><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
+      <p><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 3 -->
+<table style="margin-bottom: 30px; width: 600px; border-collapse: collapse;">
+  <tr>
+    <td style="width: 150px; vertical-align: top;">
+      <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" width="100" height="100"/>
+    </td>
+    <td style="vertical-align: top;">
+      <h3><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
+      <p><em>Using: PostgreSQL, Python, Pandas</em></p>
+    </td>
+  </tr>
+</table>
 
 
 ## Connect With Me
