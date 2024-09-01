@@ -23,7 +23,7 @@ I love programming, especially when it involves working with data. I also utiliz
 ## Featured Projects
 
 <!-- Project 1 -->
-<table style="margin-bottom: 30px; width: 100%; border-collapse: separate; border-spacing: 20px;">
+<table style="width: 100%; margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
       <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
@@ -31,14 +31,14 @@ I love programming, especially when it involves working with data. I also utiliz
       </a>
     </td>
     <td style="vertical-align: top;">
-      <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
-      <p><em>Using: Excel, PivotTables</em></p>
+      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
+      <p style="margin: 0; word-wrap: break-word;"><em>Using: Excel, PivotTables</em></p>
     </td>
   </tr>
 </table>
 
 <!-- Project 2 -->
-<table style="margin-bottom: 30px; width: 100%; border-collapse: separate; border-spacing: 20px;">
+<table style="width: 100%; margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
       <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
@@ -46,14 +46,14 @@ I love programming, especially when it involves working with data. I also utiliz
       </a>
     </td>
     <td style="vertical-align: top;">
-      <h3><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
-      <p><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
+      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
+      <p style="margin: 0; word-wrap: break-word;"><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
     </td>
   </tr>
 </table>
 
 <!-- Project 3 -->
-<table style="margin-bottom: 30px; width: 100%; border-collapse: separate; border-spacing: 20px;">
+<table style="width: 100%; margin-bottom: 30px;">
   <tr>
     <td style="width: 150px; vertical-align: top;">
       <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
@@ -61,12 +61,11 @@ I love programming, especially when it involves working with data. I also utiliz
       </a>
     </td>
     <td style="vertical-align: top;">
-      <h3><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
-      <p><em>Using: PostgreSQL, Python, Pandas</em></p>
+      <h3 style="margin: 0; word-wrap: break-word;"><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
+      <p style="margin: 0; word-wrap: break-word;"><em>Using: PostgreSQL, Python, Pandas</em></p>
     </td>
   </tr>
 </table>
-
 
 ## Connect With Me
 <p>
