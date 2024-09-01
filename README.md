@@ -22,44 +22,9 @@ I love programming, especially when it involves working with data. I also utiliz
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <!-- Celdas de Imágenes -->
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
-        <img src="images/image_customer.jpg" alt="Customer Churn Analysis" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
-        <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" width="150" height="150"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
-        <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" width="150" height="150"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Celdas de Texto -->
-    <td align="center" style="padding: 20px;">
-      <strong>Customer Churn Analysis in Telecommunications</strong>
-      <br/>
-      <em>Using: Excel, PivotTables</em>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <strong>E-commerce Sales Data Analysis</strong>
-      <br/>
-      <em>Using: Pandas, NumPy, Matplotlib, Seaborn</em>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <strong>Motorcycle Parts Sales Analysis</strong>
-      <br/>
-      <em>Using: PostgreSQL, Python, Pandas</em>
-    </td>
-  </tr>
-</table>
+| ![Customer Churn Analysis](images/image_customer.jpg) | ![E-commerce Sales Data Analysis](images/image_ecommerce_analysis.png) | ![Motorcycle Parts Sales Analysis](images/image_motos.png) |
+|:---:|:---:|:---:|
+| [**Customer Churn Analysis in Telecommunications**](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp) <br> _Using: Excel, PivotTables_ | [**E-commerce Sales Data Analysis**](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis) <br> _Using: Pandas, NumPy, Matplotlib, Seaborn_ | [**Motorcycle Parts Sales Analysis**](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project) <br> _Using: PostgreSQL, Python, Pandas_ |
 
 
 ## Connect With Me
