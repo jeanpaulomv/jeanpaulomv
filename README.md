@@ -15,7 +15,7 @@ I love programming, especially when it involves working with data. I also utiliz
 <img src="icons/python.svg" alt="Python" />&nbsp;&nbsp;&nbsp;
 <img src="icons/git.svg" alt="Git" />
 
-## Tools I Use
+## Tools
 
 <img src="icons/visual-studio-code.svg" alt="Visual Studio Code" />&nbsp;&nbsp;&nbsp;
 <img src="icons/notion.svg" alt="Notion" />
