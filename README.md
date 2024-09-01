@@ -22,14 +22,45 @@ I love programming, especially when it involves working with data. I also utiliz
 
 ## Featured Projects
 
-- **[Customer Churn Analysis in Telecommunications](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)**  
-  Using: Excel, PivotTables 
+<table>
+  <tr>
+    <!-- Celdas de Imágenes -->
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
+        <img src="images/image_customer.jpg" alt="Customer Churn Analysis" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
+        <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" width="150" height="150"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
+        <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" width="150" height="150"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Celdas de Texto -->
+    <td align="center" style="padding: 20px;">
+      <strong>Customer Churn Analysis in Telecommunications</strong>
+      <br/>
+      <em>Using: Excel, PivotTables</em>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <strong>E-commerce Sales Data Analysis</strong>
+      <br/>
+      <em>Using: Pandas, NumPy, Matplotlib, Seaborn</em>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <strong>Motorcycle Parts Sales Analysis</strong>
+      <br/>
+      <em>Using: PostgreSQL, Python, Pandas</em>
+    </td>
+  </tr>
+</table>
 
-- **[E-commerce Sales Data Analysis](https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis)**  
-  Using: Pandas, NumPy, Matplotlib, Seaborn
-
-- **[Motorcycle Parts Sales Analysis](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)**  
-  Using: PostgreSQL, Python, Pandas
 
 ## Connect With Me
 <p>
