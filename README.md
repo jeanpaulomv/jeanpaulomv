@@ -31,7 +31,7 @@ I love programming, especially when it involves working with data. I also utiliz
       </a>
     </td>
     <td style="vertical-align: top;">
-      <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecommunications</a></h3>
+      <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
       <p><em>Using: Excel, PivotTables</em></p>
     </td>
   </tr>
