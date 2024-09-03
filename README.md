@@ -24,68 +24,15 @@
   <img src="icons/notion.svg" alt="Notion" width="50" height="50"/>
 </p>
 
-<h2 align="center">Featured Projects</h2>
-
-<div align="center">
-
-  <!-- Project 1 -->
-  <div style="display: inline-block; margin: 20px;">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">
-            <img src="images/image_customer.jpg" alt="Customer Churn Analysis" width="100" height="100"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <h3><a href="https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp">Customer Churn Analysis in Telecom</a></h3>
-          <p><em>Using: Excel, PivotTables</em></p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Project 2 -->
-  <div style="display: inline-block; margin: 20px;">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">
-            <img src="images/image_ecommerce_analysis.png" alt="E-commerce Sales Data Analysis" width="100" height="100"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <h3><a href="https://github.com/jeanpaulomv/E-commerce-Sales-Data-Analysis">E-commerce Sales Data Analysis</a></h3>
-          <p><em>Using: Pandas, NumPy, Matplotlib, Seaborn</em></p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="display: inline-block; margin: 20px;">
-    <table>
-      <tr>
-        <td align="center">
-          <a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">
-            <img src="images/image_motos.png" alt="Motorcycle Parts Sales Analysis" width="100" height="100"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-          <h3><a href="https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project">Motorcycle Parts Sales Analysis</a></h3>
-          <p><em>Using: PostgreSQL, Python, Pandas</em></p>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-</div>
+<h2 align="center">Portfolio</h2>
+<p align="center">
+  <a href="https://www.datascienceportfol.io/jeanpaulomv">
+    <img src="images/banner_portfolio.png" alt="Portfolio Preview" width="600">
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.datascienceportfol.io/jeanpaulomv">Visit my website to explore my full portfolio</a>
+</p>
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
