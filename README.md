@@ -24,12 +24,8 @@
   <img src="icons/notion.svg" alt="Notion" width="50" height="50"/>
 </p>
 
-<h2 align="center">Portfolio</h2>
-<p align="center">
-  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
-</p>
-
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
 </p>
