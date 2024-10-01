@@ -25,13 +25,11 @@
 </p>
 
 <h2 align="center">Portfolio</h2>
-
-[![Portfolio](images/banner_portfolio.png)](https://www.datascienceportfol.io/jeanpaulomv)
+<p align="center">
+  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
+</p>
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="LinkedIn" height="30"></a>
-  <a href="https://www.upwork.com/freelancers/~017f203a5583495e29?mp_source=share"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork" height="30"></a>
-
 </p>
