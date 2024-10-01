@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_banner.png" alt="Banner de Bienvenida">
+  <img src="profile_banner.png" alt="Banner de Bienvenida" width="800" height="200">
 </p>
 
 <h2 align="center">Nice to Have You Here!</h2>
