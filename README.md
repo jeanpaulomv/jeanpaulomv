@@ -31,16 +31,32 @@
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="40" height="40"/>
 </p>
 
+<!-- Featured Projects -->
+
 <h2 align="center">Featured Projects</h2>
 <div align="center">
   
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Motorcycle-Parts-Sales-Analysis-DataCamp-Project&theme=dark)](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Motorcycle-Parts-Sales-Analysis-DataCamp-Project&theme=react)](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=dark)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
   
 </div>
 
+<!-- Stat Cards -->
+
+<h2 align="center">GitHub Statistics</h2>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanpaulomv&theme=dark)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpaulomv&show_icons=true&theme=algolia)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanpaulomv&theme=tokyo-night)](https://github.com/jeanpaulomv/github-readme-activity-graph)
+
+</div>
+
+<!-- Connect With Me -->
 
 <h2 align="center">Connect With Me</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="30"></a>
+  <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="50"></a>
+  <a href="https://www.datascienceportfol.io/jeanpaulomv"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" height="50"></a>
 </p>
