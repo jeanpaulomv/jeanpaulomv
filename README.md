@@ -31,6 +31,14 @@
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="40" height="40"/>
 </p>
 
+<h2 align="center">Featured Projects</h2>
+<div align="center">
+  
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Motorcycle-Parts-Sales-Analysis-DataCamp-Project&theme=dark)](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)
+  
+</div>
+
+
 <h2 align="center">Connect With Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jeanpaulomv/"><img src="https://img.shields.io/badge/jeanpaulomv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
