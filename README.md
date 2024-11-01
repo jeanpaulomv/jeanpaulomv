@@ -37,9 +37,9 @@
 <div align="center">
   
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Motorcycle-Parts-Sales-Analysis-DataCamp-Project&theme=react)](https://github.com/jeanpaulomv/Motorcycle-Parts-Sales-Analysis-DataCamp-Project)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=dark)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-Case-Study-at-DataCamp&theme=gotham)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=freecodecamp-data-analysis-with-python-projects&theme=holi)](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=holi)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-Case-Study-at-DataCamp&theme=holi)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=freecodecamp-data-analysis-with-python-projects&theme=react)](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects)
   
 </div>
 
