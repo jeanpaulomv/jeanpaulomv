@@ -38,8 +38,8 @@
   
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=analyzing-motorcycle-part-sales&theme=holi)](https://github.com/jeanpaulomv/analyzing-motorcycle-part-sales)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=holi)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-Case-Study-at-DataCamp&theme=react)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-Case-Study-at-DataCamp)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=freecodecamp-data-analysis-with-python-projects&theme=react)](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=-Analyzing-American-Baby-Name-Trends-&theme=react)](https://github.com/jeanpaulomv/-Analyzing-American-Baby-Name-Trends-)
   
 </div>
 
