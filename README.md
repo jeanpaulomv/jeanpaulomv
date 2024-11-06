@@ -4,7 +4,13 @@
 
 <h2 align="center">Nice to Have You Here!</h2>
 <p align="center">
-  I love programming, especially when it involves working with data. I also utilize spreadsheet software (such as Excel and Google Sheets) and methodologies such as Exploratory Data Analysis (EDA) and Extract, Transform, Load (ETL) to make data easy to understand and use for better decision-making.
+  I love programming, especially when it involves working with data. 
+</p>
+<p align="center">
+  My focus is on transforming information into clear and actionable insights, using tools such as SQL, Power BI, and Python to achieve in-depth analysis and effective visualizations.
+</p>
+<p align="center">
+  Additionally, I apply methodologies like Exploratory Data Analysis (EDA) and the ETL process to facilitate data-driven decision-making, optimizing the flow of information in high-impact projects.
 </p>
 
 <!-- Skills with icons -->
