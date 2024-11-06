@@ -39,6 +39,7 @@
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=analyzing-motorcycle-part-sales&theme=holi)](https://github.com/jeanpaulomv/analyzing-motorcycle-part-sales)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=holi)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=freecodecamp-data-analysis-with-python-projects&theme=react)](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=etl_automation&theme=react)](https://github.com/jeanpaulomv/etl_automation)
   
 </div>
 
