@@ -13,7 +13,7 @@
 
 <h3 align="center">Database and Visualization</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/75bd2e1f-7776-453e-b8f5-f8023b34b766" alt="SQL" width="50" height="50"/>
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
 </p>
