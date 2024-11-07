@@ -1,6 +1,10 @@
+<!-- Banner -->
+
 <p align="center">
   <img src="profile_banner.png" alt="Banner de Bienvenida" width="800" height="200">
 </p>
+
+<!-- Welcome -->
 
 <h2 align="center">Nice to Have You Here!</h2>
 <p align="center">
@@ -55,8 +59,6 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpaulomv&show_icons=true&hide=issues,contribs&theme=algolia\&include_all_commits=true\&rank_icon=github)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeanpaulomv&theme=dark)](https://git.io/streak-stats)
 
 [![Jean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanpaulomv&theme=tokyo-night)](https://github.com/jeanpaulomv/github-readme-activity-graph)
 
