@@ -40,6 +40,34 @@
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50" height="50"/>
 </p>
 
+<!-- My projects include: -->
+
+<h2 align="center">My Projects Include</h2>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th><strong>Project</strong></th>
+    <th><strong>Description</strong></th>
+  </tr>
+  <tr>
+    <td><strong>SQL Queries and Transformations</strong></td>
+    <td>Scripts for advanced queries in PostgreSQL and MySQL, database optimization, and examples of managing relational data.</td>
+  </tr>
+  <tr>
+    <td><strong>Exploratory Data Analysis (EDA)</strong></td>
+    <td>Jupyter notebooks with in-depth analysis projects using Pandas, NumPy, and Seaborn, where I explore different datasets and patterns.</td>
+  </tr>
+  <tr>
+    <td><strong>Dashboards and Visualizations</strong></td>
+    <td>Examples of visualizations and dashboards in Power BI and Python (Matplotlib, Seaborn) that highlight key patterns and findings.</td>
+  </tr>
+  <tr>
+    <td><strong>Automation with Python</strong></td>
+    <td>Scripts for repetitive tasks and data processing that save time and reduce errors in data projects.</td>
+  </tr>
+</table>
+
+
 <!-- Featured Projects -->
 
 <h2 align="center">Featured Projects</h2>
