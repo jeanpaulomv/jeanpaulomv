@@ -46,7 +46,7 @@
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
-    <th><strong>Project</strong></th>
+    <th><strong>Area of Focus</strong></th>
     <th><strong>Description</strong></th>
   </tr>
   <tr>
