@@ -30,8 +30,6 @@
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/826b9cd0-f293-494c-9b2a-89b9e0b69cb9" alt="Automations" width="50" height="50"/>
-
 </p>
 
 <h3 align="center">Version Control</h3>
