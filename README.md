@@ -11,10 +11,7 @@
   I love programming, especially when it involves working with data. 
 </p>
 <p align="center">
-  My focus is on transforming information into clear and actionable insights, using tools such as SQL, Power BI, and Python to achieve in-depth analysis and effective visualizations.
-</p>
-<p align="center">
-  Additionally, I apply methodologies like Exploratory Data Analysis (EDA) and the ETL process to facilitate data-driven decision-making, optimizing the flow of information in high-impact projects.
+  My GitHub is a space where I share projects and scripts that showcase my experience in data analysis and visualization, as well as in process automation to improve workflow efficiency.
 </p>
 
 <!-- Skills with icons -->
