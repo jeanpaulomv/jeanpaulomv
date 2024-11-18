@@ -85,7 +85,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpaulomv&show_icons=true&hide=issues,contribs&theme=algolia\&include_all_commits=true\&rank_icon=github)
 
-[![Jean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanpaulomv&theme=tokyo-night)](https://github.com/jeanpaulomv/github-readme-activity-graph)
+<!-- [![Jean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jeanpaulomv&theme=tokyo-night)](https://github.com/jeanpaulomv/github-readme-activity-graph) -->
 
 </div>
 
