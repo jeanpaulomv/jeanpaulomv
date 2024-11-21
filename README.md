@@ -48,20 +48,28 @@
     <th><strong>Description</strong></th>
   </tr>
   <tr>
-    <td><strong>SQL Queries and Transformations</strong></td>
-    <td>Scripts for advanced queries in PostgreSQL and MySQL, database optimization, and examples of managing relational data.</td>
+    <td><strong>Data Analysis</strong></td>
+    <td>Projects involving data manipulation, statistical analysis, and insights using Python (Pandas, NumPy), Jupyter Notebooks, and spreadsheets (Excel, Google Sheets).</td>
   </tr>
   <tr>
-    <td><strong>Exploratory Data Analysis (EDA)</strong></td>
-    <td>Jupyter notebooks with in-depth analysis projects using Pandas, NumPy, and Seaborn, where I explore different datasets and patterns.</td>
+    <td><strong>Databases</strong></td>
+    <td>Advanced SQL queries, database optimization, and management of relational databases like PostgreSQL and MySQL for data storage and manipulation.</td>
   </tr>
   <tr>
-    <td><strong>Dashboards and Visualizations</strong></td>
-    <td>Examples of visualizations and dashboards in Power BI and Python (Matplotlib, Seaborn) that highlight key patterns and findings.</td>
+    <td><strong>Data Visualization</strong></td>
+    <td>Creation of dashboards and visualizations using Power BI, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
   </tr>
   <tr>
-    <td><strong>Automation with Python</strong></td>
-    <td>Scripts for repetitive tasks and data processing that save time and reduce errors in data projects.</td>
+    <td><strong>Automation and Pipelines</strong></td>
+    <td>Automating repetitive tasks and building data pipelines using Python to streamline ETL processes and data analysis workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>Methodologies and Processes</strong></td>
+    <td>Experience with ETL (Extract-Transform-Load), Exploratory Data Analysis (EDA), and data modeling, as well as documenting and optimizing data workflows.</td>
+  </tr>
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td>Version control and project collaboration using Git and GitHub for efficient team management and code tracking.</td>
   </tr>
 </table>
 
