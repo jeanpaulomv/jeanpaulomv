@@ -7,12 +7,11 @@
 <!-- Welcome -->
 
 <h2 align="center">Nice to Have You Here!</h2>
-<p align="center">
-  I love programming, especially when it involves working with data. 
-</p>
-<p align="center">
-  My GitHub is a space where I share projects and scripts that showcase my experience in data analysis and visualization, as well as in process automation to improve workflow efficiency.
-</p>
+
+<pre align="center">
+I love programming, especially when it involves working with data.
+</pre>
+
 
 <!-- Skills with icons -->
 
