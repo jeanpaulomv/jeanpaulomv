@@ -8,9 +8,9 @@
 
 <h2 align="center">Nice to Have You Here!</h2>
 
-<pre align="center">
+<p align="center">
 I love programming, especially when it involves working with data.
-</pre>
+</p>
 
 
 <!-- Skills with icons -->
