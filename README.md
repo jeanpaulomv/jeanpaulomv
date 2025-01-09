@@ -21,6 +21,7 @@ I love programming, especially when it involves working with data.
 <p align="center">
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/b0899c37-49aa-4ace-9d02-94599e7c9202" alt="Power BI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
 </p>
 
@@ -56,7 +57,7 @@ I love programming, especially when it involves working with data.
   </tr>
   <tr>
     <td><strong>Data Visualization</strong></td>
-    <td>Creation of dashboards and visualizations using Power BI, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
+    <td>Creation of dashboards and visualizations using Power BI, Tableau, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
   </tr>
   <tr>
     <td><strong>Automation and Pipelines</strong></td>
