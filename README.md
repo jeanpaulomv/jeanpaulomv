@@ -17,9 +17,15 @@ I love programming, especially when it involves working with data.
 
 <h2 align="center">Skills</h2>
 
-<h3 align="center">Database and Visualization</h3>
+<h3 align="center">Database</h3>
 <p align="center">
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50" height="50"/>
+</p>
+
+<h3 align="center">Visualization</h3>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/b0899c37-49aa-4ace-9d02-94599e7c9202" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
@@ -37,6 +43,7 @@ I love programming, especially when it involves working with data.
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50" height="50"/>
 </p>
+
 
 <!-- My projects include: -->
 
