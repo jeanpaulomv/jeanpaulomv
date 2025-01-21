@@ -24,18 +24,23 @@ I love programming, especially when it involves working with data.
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="50" height="50"/>
 </p>
 
-<h3 align="center">Visualization</h3>
+<h3 align="center"> Data Visualization</h3>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b0899c37-49aa-4ace-9d02-94599e7c9202" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
 </p>
 
-<h3 align="center">Languages and Libraries</h3>
+<h3 align="center">Languages & Libraries</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50" height="50"/>
+</p>
+
+<h3 align="center">Spreadsheet Tools</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="50" height="50"/>
 </p>
 
 <h3 align="center">Version Control</h3>
