@@ -71,10 +71,10 @@ I love programming, especially when it involves working with data.
     <td><strong>Data Visualization</strong></td>
     <td>Creation of dashboards and visualizations using Power BI, Tableau, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
   </tr>
-  <tr>
+  <!--<tr>
     <td><strong>Automation and Pipelines</strong></td>
     <td>Automating repetitive tasks and building data pipelines using Python to streamline ETL processes and data analysis workflows.</td>
-  </tr>
+  </tr>-->
   <tr>
     <td><strong>Methodologies and Processes</strong></td>
     <td>Experience with ETL (Extract-Transform-Load), Exploratory Data Analysis (EDA), and data modeling, as well as documenting and optimizing data workflows.</td>
