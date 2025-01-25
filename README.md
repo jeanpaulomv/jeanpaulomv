@@ -26,8 +26,8 @@ I love programming, especially when it involves working with data.
 
 <h3 align="center"> Data Visualization</h3>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0899c37-49aa-4ace-9d02-94599e7c9202" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/b0899c37-49aa-4ace-9d02-94599e7c9202" alt="Power BI" width="50" height="50"/>
 </p>
 
 <h3 align="center">Languages & Libraries</h3>
