@@ -43,11 +43,11 @@ I love programming, especially when it involves working with data.
   <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="50" height="50"/>
 </p>
 
-<h3 align="center">Version Control</h3>
+<!-- <h3 align="center">Version Control</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50" height="50"/>
-</p>
+</p> -->
 
 
 <!-- My projects include: -->
