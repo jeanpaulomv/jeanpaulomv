@@ -69,7 +69,7 @@ I love programming, especially when it involves working with data.
   </tr>
   <tr>
     <td><strong>Data Visualization</strong></td>
-    <td>Creation of dashboards and visualizations using Power BI, Tableau, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
+    <td>Creation of dashboards and visualizations using Tableau, Power BI, Excel, and Python libraries (Matplotlib, Seaborn) to display data trends and insights.</td>
   </tr>
   <!--<tr>
     <td><strong>Automation and Pipelines</strong></td>
