@@ -91,10 +91,10 @@ I love programming, especially when it involves working with data.
 <h2 align="center">Featured Projects</h2>
 <div align="center">
   
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Interactive_Dashboard_for_London_Bike-Sharing_Trends&theme=holi)](https://github.com/Interactive_Dashboard_for_London_Bike-Sharing_Trends)
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=British-Airways-Reviews-Dashboard&theme=holi)](https://github.com/jeanpaulomv/British-Airways-Reviews-Dashboard)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=analyzing-motorcycle-part-sales&theme=holi)](https://github.com/jeanpaulomv/analyzing-motorcycle-part-sales)
   [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=Analyzing-Customer-Churn-with-Power-BI&theme=holi)](https://github.com/jeanpaulomv/Analyzing-Customer-Churn-with-Power-BI)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=freecodecamp-data-analysis-with-python-projects&theme=react)](https://github.com/jeanpaulomv/freecodecamp-data-analysis-with-python-projects)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jeanpaulomv&repo=etl_automation&theme=react&cache_seconds=10)](https://github.com/jeanpaulomv/etl_automation)
   
 </div>
 
