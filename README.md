@@ -17,7 +17,15 @@ I love programming, especially when it involves working with data.
 
 <h2 align="center">Skills</h2>
 
-<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="50" height="50"/>
+  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
+</p>
+
+<!-- <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50"/>
@@ -43,7 +51,7 @@ I love programming, especially when it involves working with data.
   <img src="https://img.icons8.com/color/48/000000/google-sheets.png" alt="Google Sheets" width="50" height="50"/>
 </p>
 
-<!-- <h3 align="center">Version Control</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50" height="50"/>
